@@ -181,13 +181,13 @@ PRODUCT_PACKAGES += \
     fingerprintd
 
 # FM
-PRODUCT_PACKAGES += \
-    FM2 \
-    libqcomfm_jni \
-    qcom.fmradio
+#PRODUCT_PACKAGES += \
+#    FM2 \
+#    libqcomfm_jni \
+#    qcom.fmradio
 
-PRODUCT_PACKAGES += \
-    android.hardware.broadcastradio@1.0-impl
+#PRODUCT_PACKAGES += \
+#    android.hardware.broadcastradio@1.0-impl
 
 # GPS / Location
 PRODUCT_PACKAGES += \
