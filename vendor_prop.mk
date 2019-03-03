@@ -97,8 +97,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
 	ro.max.fling_velocity=20000
 
 # FM
-PRODUCT_PROPERTY_OVERRIDES += \
-	vendor.fm.a2dp.conc.disabled=false
+#PRODUCT_PROPERTY_OVERRIDES += \
+#	vendor.fm.a2dp.conc.disabled=false
 
 # FRP
 PRODUCT_PROPERTY_OVERRIDES += \
